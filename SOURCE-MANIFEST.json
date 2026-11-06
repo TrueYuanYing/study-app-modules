@@ -1,0 +1,41 @@
+{
+  "baseline": "IKO 0.3.11+94",
+  "recordDate": "2026-11-04",
+  "extractedOn": "2026-11-06",
+  "files": [],
+  "excludedFiles": {},
+  "generatedFiles": [
+    {
+      "target": ".gitattributes",
+      "sha256": "ba760de3d447e0b3f71a54df3e3360231b05dd98b4584b92b1e792a53eefdd0d"
+    },
+    {
+      "target": ".gitignore",
+      "sha256": "a8a1ac48c52460c848ecb12ed507fe6212b8fecb149c17c7eb2f037ebafd40c8"
+    },
+    {
+      "target": "CONTRIBUTING.md",
+      "sha256": "70229ef64c017ab35611eaabf4ff90af9dbbdbe3bdc4ee6cbffddd8477b979e1"
+    },
+    {
+      "target": "LICENSE",
+      "sha256": "0ce17ff75376a5e69f909e91b4b145c36ce3848e95156d764a5a37a0d4a6ffdc"
+    },
+    {
+      "target": "MODULE-MAP.md",
+      "sha256": "0ea8d5f63caeb199a092f88ff31386d1a76ae3470af4df439a75332546f39355"
+    },
+    {
+      "target": "README.md",
+      "sha256": "e2c494b242ef6a5f4522e81122e8a742f6d0b28c7016c3d832bcf69169fe791b"
+    },
+    {
+      "target": "SECURITY.md",
+      "sha256": "e00ee6595322461749c1030aa9697f40e34e9826480c2c34927907a7f77f3b36"
+    },
+    {
+      "target": "VALIDATION.md",
+      "sha256": "578bb10bde703b17c6fc8e3a437c4d2188d2a0f3c5122a9bd353db9de3cbf31c"
+    }
+  ]
+}
